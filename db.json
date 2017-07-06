@@ -3,6 +3,14 @@
     {
       "id": 0,
       "recruit": "Bill the Archer"
+    },
+    {
+      "recruit": "Dave the Destroyer",
+      "id": 1
+    },
+    {
+      "recruit": "Mike the Mutilator",
+      "id": 2
     }
   ],
   "undead": [
@@ -16,15 +24,15 @@
   "undead_minions": [
     {
       "id": 1,
-      "type": "Skeleton"
+      "type": "frog"
     },
     {
       "id": 2,
-      "type": "Necromancer"
+      "type": "frog"
     },
     {
       "id": 3,
-      "type": "Zombie Archer"
+      "type": "frog"
     },
     {
       "id": 4,
@@ -36,19 +44,19 @@
     },
     {
       "id": 6,
-      "type": "Skeleton"
+      "type": "frog"
     },
     {
       "id": 7,
-      "type": "Skeleton Archer"
+      "type": "frog"
     },
     {
       "id": 8,
-      "type": "Skeleton Archer"
+      "type": "frog"
     },
     {
       "id": 9,
-      "type": "Necromancer"
+      "type": "frog"
     },
     {
       "id": 10,
@@ -94,11 +102,11 @@
     },
     {
       "id": 7,
-      "type": "Barbarian"
+      "type": "frog"
     },
     {
       "id": 8,
-      "type": "Barbarian"
+      "type": "frog"
     },
     {
       "id": 9,
